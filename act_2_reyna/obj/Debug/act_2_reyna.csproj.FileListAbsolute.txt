@@ -1,0 +1,35 @@
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\act_2_reyna\act_2_reyna\bin\Debug\act_2_reyna.exe
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\act_2_reyna\act_2_reyna\bin\Debug\act_2_reyna.pdb
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\act_2_reyna\act_2_reyna\obj\Debug\act_2_reyna.csprojResolveAssemblyReference.cache
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\act_2_reyna\act_2_reyna\obj\Debug\act_2_reyna.exe
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\act_2_reyna\act_2_reyna\obj\Debug\act_2_reyna.pdb
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\act_2_reyna\act_2_reyna\obj\Debug\act_2_reyna.MainForm.resources
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\act_2_reyna\act_2_reyna\obj\Debug\act_2_reyna.csproj.GenerateResource.Cache
+E:\6to\Act_2_Reynas\act_2_reyna\bin\Debug\act_2_reyna.exe
+E:\6to\Act_2_Reynas\act_2_reyna\bin\Debug\act_2_reyna.pdb
+E:\6to\Act_2_Reynas\act_2_reyna\obj\Debug\act_2_reyna.csprojResolveAssemblyReference.cache
+E:\6to\Act_2_Reynas\act_2_reyna\obj\Debug\act_2_reyna.MainForm.resources
+E:\6to\Act_2_Reynas\act_2_reyna\obj\Debug\act_2_reyna.csproj.GenerateResource.Cache
+E:\6to\Act_2_Reynas\act_2_reyna\obj\Debug\act_2_reyna.exe
+E:\6to\Act_2_Reynas\act_2_reyna\obj\Debug\act_2_reyna.pdb
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\Act_2_Reynas\act_2_reyna\bin\Debug\act_2_reyna.exe
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\Act_2_Reynas\act_2_reyna\bin\Debug\act_2_reyna.pdb
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\Act_2_Reynas\act_2_reyna\obj\Debug\act_2_reyna.MainForm.resources
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\Act_2_Reynas\act_2_reyna\obj\Debug\act_2_reyna.csproj.GenerateResource.cache
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\Act_2_Reynas\act_2_reyna\obj\Debug\act_2_reyna.exe
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\Act_2_Reynas\act_2_reyna\obj\Debug\act_2_reyna.pdb
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\Act_2_Reynas\act_2_reyna\obj\Debug\act_2_reyna.csprojResolveAssemblyReference.cache
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\PF_Backtracking\act_2_reyna\bin\Debug\act_2_reyna.exe
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\PF_Backtracking\act_2_reyna\bin\Debug\act_2_reyna.pdb
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\PF_Backtracking\act_2_reyna\obj\Debug\act_2_reyna.csprojResolveAssemblyReference.cache
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\PF_Backtracking\act_2_reyna\obj\Debug\act_2_reyna.MainForm.resources
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\PF_Backtracking\act_2_reyna\obj\Debug\act_2_reyna.csproj.GenerateResource.Cache
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\PF_Backtracking\act_2_reyna\obj\Debug\act_2_reyna.exe
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\PF_Backtracking\act_2_reyna\obj\Debug\act_2_reyna.pdb
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\N_Queen_Backtracking\act_2_reyna\obj\Debug\act_2_reyna.csprojResolveAssemblyReference.cache
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\N_Queen_Backtracking\act_2_reyna\obj\Debug\act_2_reyna.MainForm.resources
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\N_Queen_Backtracking\act_2_reyna\obj\Debug\act_2_reyna.csproj.GenerateResource.Cache
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\N_Queen_Backtracking\act_2_reyna\obj\Debug\act_2_reyna.exe
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\N_Queen_Backtracking\act_2_reyna\obj\Debug\act_2_reyna.pdb
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\N_Queen_Backtracking\act_2_reyna\bin\Debug\act_2_reyna.exe
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\N_Queen_Backtracking\act_2_reyna\bin\Debug\act_2_reyna.pdb
